@@ -14,5 +14,8 @@
   "keywords": [],
   "dependencies": {
     "parcel": "^2.9.3"
+  },
+  "devDependencies": {
+    
   }
 }
